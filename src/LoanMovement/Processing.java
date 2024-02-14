@@ -6,6 +6,7 @@ public class Processing {
 	{
 		System.out.println("This is in processing");
 		System.out.println("This will move to underwriting");
+		System.out.println("Next step is Initial CD");
 
 	}
 
